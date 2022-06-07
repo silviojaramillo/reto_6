@@ -1,5 +1,5 @@
 import random
-
+#Simulando el juego de pieda, papel o tijera e indicar cuál es el ganador al final de la partida
 #Definiendo los elementos y el número para cada uno
 elements = ['Piedra', 'Papel', 'Tijera']
 winners = []
